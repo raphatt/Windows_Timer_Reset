@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reset_Relogio_Display", "Reset_Relogio_Display\Reset_Relogio_Display.csproj", "{92EA11C5-EDF7-4A7E-99FE-C65B45F3557B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92EA11C5-EDF7-4A7E-99FE-C65B45F3557B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EA11C5-EDF7-4A7E-99FE-C65B45F3557B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EA11C5-EDF7-4A7E-99FE-C65B45F3557B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EA11C5-EDF7-4A7E-99FE-C65B45F3557B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8C78BC6-534A-4F67-8F74-B45B2644061F}
+	EndGlobalSection
+EndGlobal
